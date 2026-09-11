@@ -89,14 +89,14 @@ Construí carreira em ambientes de missão crítica — incluindo mais de dois a
 
 ---
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=antoniodesouza&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniodesouza&layout=compact&hide_border=true" alt="Top languages" height="165"/>
 </p>
 
----
+--- -->
 
 ### 🔗 Conecte-se
 
