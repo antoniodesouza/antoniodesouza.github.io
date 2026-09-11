@@ -1,6 +1,6 @@
 # Olá, eu sou o Antonio 👋
 
-**Staff Software Engineer | AI Engineer** com mais de 18 anos de experiência na interseção entre arquitetura de sistemas em escala, plataforma cloud e produtos com IA aplicada.
+**Staff Software Engineer** com mais de 18 anos de experiência na interseção entre arquitetura de sistemas em escala, plataforma cloud e produtos com IA aplicada.
 
 Construí carreira em ambientes de missão crítica — incluindo mais de dois anos como Tech Lead / Software Architect no Itaú Unibanco, liderando arquitetura multi-cloud (AWS, GCP, Azure) para produtos de alto volume transacional, sob exigências de compliance regulatório (LGPD, PCI-DSS).
 
